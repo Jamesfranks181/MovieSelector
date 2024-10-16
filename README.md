@@ -29,5 +29,5 @@ To run this app locally, follow the steps below.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/movie-recommender.git
-cd movie-recommender
+git clone https://github.com/your-username/movieselector.git
+
